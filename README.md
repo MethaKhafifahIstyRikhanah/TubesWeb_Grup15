@@ -45,7 +45,7 @@ Pengguna dapat menggunakan website ini untuk mengetahui tempat atau informasi wi
 
 https://adminwismas.rifkiystark.tech/
 
-Email yang di gunakan untuk testing 
+Email yang di gunakan untuk testing ( Admin )
 
 https://adminwismas.rifkiystark.tech/admin/ (Admin)
 

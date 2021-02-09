@@ -1,7 +1,7 @@
 ## Group 15 
-- Ananda Rifky Hasan    (18104004)
+- Ananda Rifkiy Hasan   (18104004)
 - Metha Khafifah Isty R (18104015)
-- Bintang Adhi Nugraha  (18104030)
+- Bintang Adhi Nugroho  (18104030)
 
 ## Website Wismas ( Wisata Banyumas )
 Wisata merupakan kegiatan yang hampir semua orang lakukan, wisata berarti di identikan berpergian atau bertamasya. Di banyumas wisata bukan hal asing lagi kedengarannya, seperti daerah baturaden yang paling diminati oleh masyarakat banyumas maupun luar banyumas karena memiliki banyak rekomendasi tempat wisata alam. Jadi dengan adanya banyak tempat wisata di banyumas kita menyediakan website yang dapat membantu masyarakat untuk memperoleh informasi mengenai tempat wisata tersebut.

@@ -41,6 +41,9 @@ Pengguna dapat menggunakan website ini untuk mengetahui tempat atau informasi wi
 
 ![tambah](https://user-images.githubusercontent.com/72481949/107341318-63441180-6af1-11eb-83db-45e89472ff01.jpg)
 
+## Link 
+https://adminwismas.rifkiystark.tech/
+
 
 
 

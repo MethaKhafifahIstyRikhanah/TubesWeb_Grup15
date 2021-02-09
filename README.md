@@ -2,7 +2,7 @@
 <h1> Website Wismas ( Wisata Banyumas ) </h1>
 Website Wisamas merupakan website yang berguna untuk mengetahui tempat atau informasi wisata 
 
-<h1> Fitur yang Tersedia </h1>
+## Fitur yang Tersedia 
 - Login
 - Search
 - List Data Tempat Wisata

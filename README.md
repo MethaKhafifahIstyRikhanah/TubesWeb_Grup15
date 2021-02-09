@@ -44,6 +44,12 @@ Pengguna dapat menggunakan website ini untuk mengetahui tempat atau informasi wi
 ## Link 
 https://adminwismas.rifkiystark.tech/
 
+Email yang di gunakan untuk testing 
+https://adminwismas.rifkiystark.tech/admin/ (Admin)
+email = metha@gmail.com
+pass  = 123456
+
+
 
 
 

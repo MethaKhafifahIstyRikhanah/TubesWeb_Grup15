@@ -11,4 +11,4 @@ Website Wisamas merupakan website yang berguna untuk mengetahui tempat atau info
 
 <h1> Preview Fitur </h1>
 - Login 
-![Screenshot (268)](https://user-images.githubusercontent.com/30403009/107308936-214ca880-6abc-11eb-8339-cc8bb9295d6c.png)
+

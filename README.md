@@ -1,4 +1,4 @@
-## Grup 15 
+## Group 15 
 - Ananda Rifky Hasan    (18104004)
 - Metha Khafifah Isty R (18104015)
 - Bintang Adhi Nugraha  (18104030)
